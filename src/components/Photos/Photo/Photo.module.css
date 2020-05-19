@@ -1,0 +1,16 @@
+.photo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+}
+
+.name{
+    font-weight: bold;
+    margin-block-end: 0.1em;
+}
+.date{
+    font-size: 13px;
+
+}
